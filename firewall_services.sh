@@ -3,8 +3,8 @@
 # ==========================================
 # Managing Firewall Services using firewalld
 #
-# Student Name:GOKUL J
-# Roll Number:1U24IT033
+# Student Name:gokul j
+# Roll Number:1u24it033
 # ==========================================
 
 # Check current firewall services
@@ -20,7 +20,7 @@ sudo firewall-cmd --permanent --add-service=https
 
 
 # Display enabled services
-sudo firewall-cmd --list-services --permanent
+sudo firewall-cmd --permanent --list-services
 
 
 # Remove HTTP service
@@ -33,8 +33,5 @@ sudo firewall-cmd --permanent --add-service=ssh
 
 # Reload firewall configuration
 sudo firewall-cmd --reload
-
-
-
 
 
