@@ -3,8 +3,8 @@
 # ==========================================
 # Managing Firewall Services using firewalld
 #
-# Student Name:
-# Roll Number:
+# Student Name:GOKUL J
+# Roll Number:1U24IT033
 # ==========================================
 
 # Check current firewall services
@@ -33,5 +33,8 @@ sudo firewall-cmd --permanent --add-service=ssh
 
 # Reload firewall configuration
 sudo firewall-cmd --reload
+
+
+
 
 
