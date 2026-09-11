@@ -3,8 +3,8 @@
 # ==========================================
 # Managing Firewall Services using firewalld
 #
-# Student Name:GOKUL J
-# Roll Number:1U24IT033
+# Student Name:
+# Roll Number:
 # ==========================================
 
 # Check current firewall services
